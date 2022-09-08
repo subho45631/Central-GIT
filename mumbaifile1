@@ -1,5 +1,1 @@
-num1=4563
-num2=4478
-sum=num1+num2
-
-print("sum")
+for(i=0;i<10;i++)
